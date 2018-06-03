@@ -1,0 +1,54 @@
+{
+  "name": "VRAI",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node -e \"console.log('open browser at http://localhost:8081/vr/\\n\\n');\" && node node_modules/react-native/local-cli/cli.js start",
+    "bundle": "node node_modules/react-vr/scripts/bundle.js",
+    "open": "node -e \"require('xopen')('http://localhost:8081/vr/')\"",
+    "test": "jest",
+    "flow": "flow"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "nullthrows": "^1.0.0",
+    "ovrui": "https://github.com/jingsh/OVRUI/tarball/fd1c4485a8263892bd7fc6ad56f6c60df8105bc8",
+    "react": "~15.4.1",
+    "react-native": "0.42.0",
+    "react-vr": "1.4.0",
+    "react-vr-cli": "^0.3.5",
+    "react-vr-web": "https://github.com/jingsh/react-vr-web/tarball/a8b5e4a4d3f3658d0eee58f6fdcf1b411fda801e",
+    "three": "0.87.1",
+    "three-fbx-loader": "https://github.com/jingsh/three-fbx-loader/tarball/be26f2692c5b56af14c78c3564134549eb13bff8",
+    "three-gltf2-loader": "^1.0.0",
+    "zlibjs": "^0.3.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-eslint": "^7.2.3",
+    "babel-jest": "^19.0.0",
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-flow": "^6.23.0",
+    "babel-preset-react-native": "^1.9.1",
+    "eslint": "^4.5.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-prettier": "^2.2.0",
+    "eslint-plugin-react": "^7.3.0",
+    "flow-bin": "^0.53.1",
+    "immutable": "^3.8.1",
+    "jest": "^19.0.2",
+    "prettier": "^1.5.3",
+    "react-devtools": "^2.1.3",
+    "react-redux": "^5.0.6",
+    "react-test-renderer": "15.4.1",
+    "redux": "^3.7.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.2.0",
+    "xopen": "1.0.0"
+  },
+  "jest": {
+    "preset": "react-vr"
+  }
+}

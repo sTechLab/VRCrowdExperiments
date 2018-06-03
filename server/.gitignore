@@ -1,0 +1,9 @@
+.DS_Store
+*~
+*.log
+*.js.meta
+.env
+node_modules/
+dist/
+flow-typed/
+package-lock.json
