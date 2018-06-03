@@ -52,7 +52,7 @@ We used a simple [Express framework](https://expressjs.com/) for our server, for
 
 1. Set the study to the one needs to be deployed by searching for `STUDY SWITCH POINT` (should be four places)
 2. Update the `Configs.js` file under the target study folder. Set:
-3. `DEV = false; LOG_VRSTATUS = true; SERVER_DOMAIN = 'http://xxx.herokuapp.com';`
+3. `DEV = false; LOG_VRSTATUS = true; SERVER_DOMAIN = 'http://xxx.herokuapp.com';`, then `npm run bundle` from `./client`
 4. Initiate a new folder with the following file structure:
 
 ```
