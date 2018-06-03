@@ -30,6 +30,8 @@ One can only develop / build one study at a time, the way to switch studies is b
 ./client/redux/Misc.js: import RootReduxStore from '../Study1/redux/RootReduxStore';
 ```
 
+Note that the numbering of Study 2 and 3 in the paper and software are not consistent...
+
 ### Views
 
 Common screens were defined in `./client/views`, such as Welcome and Exit screens, keyboards, generic UI styles, etc.
@@ -85,7 +87,7 @@ We used a simple [Express framework](https://expressjs.com/) for our server, for
 ```
 
 1. Can also use the `template_heroku` folder to start
-2. Then [create a Heroku remote to push to](https://devcenter.heroku.com/articles/git#creating-a-heroku-remote)
+2. Then [create a Heroku remote to push](https://devcenter.heroku.com/articles/git#creating-a-heroku-remote)
 3. Deploy to Heroku by `git push heroku master`
 
 ## Data for Previous experiments
