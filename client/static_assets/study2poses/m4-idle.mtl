@@ -1,0 +1,77 @@
+# Blender MTL File: 'm4.blend'
+# Material Count: 5
+
+newmtl Bodymat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 textures/m4_Body_Normal.png
+map_Kd textures/m4_Body_Diffuse.png
+map_Ks textures/m4_Body_Specular.png
+map_Ns textures/m4_Body_Gloss.png
+map_d textures/m4_Body_Opacity.png
+
+newmtl Bottommat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 textures/m4_Bottom_Normal.png
+map_Kd textures/m4_Bottom_Diffuse.png
+map_Ks textures/m4_Bottom_Specular.png
+map_Ns textures/m4_Bottom_Gloss.png
+map_d textures/m4_Bottom_Opacity.png
+
+newmtl Hairmat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 textures/m4_Hair_Normal.png
+map_Kd textures/m4_Hair_Diffuse.png
+map_Ks textures/m4_Hair_Specular.png
+map_Ns textures/m4_Hair_Gloss.png
+map_d textures/m4_Hair_Opacity.png
+
+newmtl Shoesmat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 textures/m4_Shoes_Normal.png
+map_Kd textures/m4_Shoes_Diffuse.png
+map_Ks textures/m4_Shoes_Specular.png
+map_Ns textures/m4_Shoes_Gloss.png
+map_d textures/m4_Shoes_Opacity.png
+
+newmtl Topmat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 textures/m4_Top_Normal.png
+map_Kd textures/m4_Top_Diffuse.png
+map_Ks textures/m4_Top_Specular.png
+map_Ns textures/m4_Top_Gloss.png
+map_d textures/m4_Top_Opacity.png

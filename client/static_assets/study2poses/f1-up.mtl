@@ -1,0 +1,92 @@
+# Blender MTL File: 'f1.blend'
+# Material Count: 6
+
+newmtl Bodymat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 textures/f1_Body_Normal.png
+map_Kd textures/f1_Body_Diffuse.png
+map_Ks textures/f1_Body_Specular.png
+map_Ns textures/f1_Body_Gloss.png
+map_d textures/f1_Body_Opacity.png
+
+newmtl Bodymat.001
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 textures/f1_Body_Normal.png
+map_Kd textures/f1_Body_Diffuse.png
+map_Ks textures/f1_Body_Specular.png
+map_Ns textures/f1_Body_Gloss.png
+map_d textures/f1_Body_Opacity.png
+
+newmtl Bottommat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 textures/f1_Bottom_Normal.png
+map_Kd textures/f1_Bottom_Diffuse.png
+map_Ks textures/f1_Bottom_Specular.png
+map_Ns textures/f1_Bottom_Gloss.png
+map_d textures/f1_Bottom_Opacity.png
+
+newmtl Hairmat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 textures/f1_Hair_Normal.png
+map_Kd textures/f1_Hair_Diffuse.png
+map_Ks textures/f1_Hair_Specular.png
+map_Ns textures/f1_Hair_Gloss.png
+map_d textures/f1_Hair_Opacity.png
+
+newmtl Shoesmat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 textures/f1_Shoes_Normal.png
+map_Kd textures/f1_Shoes_Diffuse.png
+map_Ks textures/f1_Shoes_Specular.png
+map_Ns textures/f1_Shoes_Gloss.png
+map_d textures/f1_Shoes_Opacity.png
+
+newmtl Topmat
+Ns 200.000000
+Ka 0.040000 0.040000 0.040000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Bump -bm 0.000000 textures/f1_Top_Normal.png
+map_Kd textures/f1_Top_Diffuse.png
+map_Ks textures/f1_Top_Specular.png
+map_Ns textures/f1_Top_Gloss.png
+map_d textures/f1_Top_Opacity.png
