@@ -90,4 +90,4 @@ We used a simple [Express framework](https://expressjs.com/) for our server, for
 
 ## Data for Previous experiments
 
-Previous experiment data coming soon.
+Data available upon request -- please email xiao at jacobs o cornell o edu
